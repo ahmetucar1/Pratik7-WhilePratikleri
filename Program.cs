@@ -89,7 +89,7 @@ namespace WhilePratikleri {
             {
                 singleNum += n;
             }
-            if (n % 2 == 0)
+            else (n % 2 == 0)
             {
                 pairNum += n;
             }
